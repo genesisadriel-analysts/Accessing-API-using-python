@@ -11,6 +11,7 @@ Understand HTTP request and response structure
 Extract useful information from API responses
 Work with different data formats (HTML, JSON, images)
 Build a foundation for data ingestion workflows
+
 🧠 Skills Demonstrated
 API Integration
 Data Extraction from Web Sources
@@ -22,8 +23,10 @@ Python
 requests – handling HTTP requests
 Pillow (PIL) – image processing
 Jupyter Notebook – interactive environment
+
 📂 Project Structure
 Accessing API.ipynb   # Main notebook demonstrating API interaction
+
 🔍 Workflow Overview
 Send API Requests
 Perform HTTP GET requests to retrieve data
@@ -35,15 +38,18 @@ Process Data
 Convert raw responses into usable formats
 Display Results
 Render images and content within the notebook
+
 📊 Relevance to Data Roles
 👨‍💻 Data Analyst
 Collect external data for analysis
 Transform API responses into structured datasets
 Use API data in reports and dashboards
+
 ⚙️ Data Engineer
 Build API-based data ingestion pipelines
 Validate and process incoming data
 Prepare data for storage and downstream systems
+
 🚀 How to Run
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
@@ -73,6 +79,6 @@ This project highlights the ability to access and handle real-world data from AP
 
 ## Contact
 Genesis Adriel Segovia
-📩 genesisadriel.segovia@outlook.com
+📩 genesisadriel.segovia@gmail.com
 
 If you found this helpful, feel free to ⭐ the repository!
